@@ -22,3 +22,5 @@ Then, add `#{iptmthd}` strings in your `status-right` or `status-left` option in
 # Example
 set-option -g status-right '#{iptmthd}'`
 ```
+
+Push `prefix + I(shift+i)`, and the installation will finish.
