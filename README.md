@@ -9,11 +9,11 @@ This plugin works only on macOS.
 
 ## Installation with TPM
 
-You can easily install this plugin with [Tmux Plugin Manager](https://github.com/tmux-plugins/tpm). Put following code in `.tmax.conf`.
+You can easily install this plugin with [Tmux Plugin Manager](https://github.com/tmux-plugins/tpm). Put following code in `.tmux.conf`.
 
 ```
 # Install The Plugin
-set -g @plugin 'Ki_chi/tmux-inputmethod'
+set -g @plugin 'ki-chi/tmux-inputmethod'
 ```
 
 Then, add `#{iptmthd}` strings in your `status-right` or `status-left` option in `.tmux.conf`.
